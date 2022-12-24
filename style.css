@@ -1,0 +1,222 @@
+body{
+
+ font-family: "Lacquer" ;
+}
+
+.player{height: 120vh;
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+.wrapper{
+
+
+    border: 1 px solid transparent;
+    padding: 3vw;
+    border-radius: 1.8vw;
+    box-shadow: rgba(0,0,0,0.3) 0vw 1.7vw 3.7vw, rgba(0,0,0,0.22) 0vw 1.4vw 1.1vw;
+
+
+}
+.details{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.track-art{
+
+
+    margin: 2.4vw;
+    height: 24vw;
+    width: 24vw;
+    border: 0.2vw solid #fff;
+    background-size:cover ;
+    background-position: center;
+    border-radius: 50%;
+    -moz-box-shadow: 0vw 0.6vw 0.5vw #ccc;
+    -webkit-box-shadow: 0vw 0.6vw 0.5vw #ccc;
+    box-shadow: 0vw 0.6vw 0.5vw #ccc;
+    -moz-border-radius: 18vw;
+    -webkit-border-radius: 18vw;
+    border-radius: 18vw;
+
+}
+.now-playing{
+
+
+    font-size: 1rem;
+
+}
+.track-name{
+
+    font-size: 2.5rem;
+}
+.track-artist {
+
+    margin-top: 0.4vw;
+    font-size: 1.5rem;
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    margin-bottom: 3vw;
+    margin-left: 3vw;
+    }
+
+.active{
+
+    color: black;
+
+}
+.repeat-track,
+.radnom-track,
+.playpause-track,
+.prev-track,
+.next-track{
+
+    padding: 2.5vw;
+    opacity: 0.8;
+    transition: opacity .2s;
+
+}
+
+.repeat-track:hover,
+.radnom-track:hover,
+.playpause-track:hover,
+.prev-track:hover,
+.next-track:hover{
+
+    opacity: 1.0;
+}
+.slider_container{
+
+    display: flex;
+    justify-content: center;
+
+align-items: center;
+}
+.seek_slider,
+.volume_slider{
+display: flex;
+flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    height: 0.5vw;
+    background: #83A9FF;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+.seek_slider::-webkit-slider-thumb,
+.volume_slider::-webkit-slider-thumb{
+
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 1.5vw;
+    height: 1.5vw;
+    background: white;
+    border: 0.3vw solid #3774ff;
+    cursor: pointer;
+    border-radius: 100%;
+}
+.seek_slider:hover,
+.volume_slider:hover{
+
+    opacity: 1.0;
+}
+.seek_slider{
+
+    width: 60%;
+
+}
+.volume_slider {
+
+    width: 30%;
+}
+.current-time,
+.total-duration {
+padding: 10px;
+}
+
+i.fa-volume-down,
+i.fa-volume-up {
+padding: 10px;
+}
+
+i,
+i.fa-play-circle,
+i.fa-pause-circle,
+i.fa-step-forward,
+i.fa-step-backward,
+p {
+cursor: pointer;
+}
+.randomActive{
+    color: black;
+}
+.rotate {
+    animation: rotation 8s infinite linear;
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+}
+.loader {
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loader .stroke{
+    background: #f1f1f1;
+    height: 150%;
+    width: 10px;
+    border-radius: 50px;
+    margin: 0 5px;
+    animation: animate 1.4s linear infinite;
+}
+  @keyframes animate {
+    50% {
+      height: 20%;
+      background: #4286f4;
+    }
+
+    100% {
+      background: #4286f4;
+      height: 100%;
+    }
+  }
+  .stroke:nth-child(1){
+      animation-delay: 0s;
+  }
+  .stroke:nth-child(2){
+    animation-delay: 0.3s;
+}
+.stroke:nth-child(3){
+    animation-delay: 0.6s;
+}
+.stroke:nth-child(4){
+    animation-delay: 0.9s;
+}
+.stroke:nth-child(5){
+    animation-delay: 0.6s;
+}
+.stroke:nth-child(6){
+    animation-delay: 0.3s;
+}
+.stroke:nth-child(7){
+    animation-delay: 0s;
+}
+
