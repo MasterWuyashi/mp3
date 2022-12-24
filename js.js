@@ -77,13 +77,7 @@ const music_list = [
         artist: 'Galija',
         music: 'music/Y2Mate.is - Galija - Da li si spavala (Acoustic, 6.1.1995)-v5P4LsUyXV4-128k-1655132764610.mp3'
     },
-    {
-    
-        img : 'images/galija.jpg',
-        name: 'Dodirni me',
-        artist: 'Galija',
-        music: 'music/Y2Mate.is - Galija - Dodirni me-s8Spc9Oh5vY-128k-1657410602718.mp3'
-    },
+   
     {
     
         img : 'images/katushya.jpg',
