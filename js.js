@@ -132,19 +132,19 @@ img : 'images/SMAK.jpg',
     img : 'images/SMAK.jpg',
         name: 'Mix za dobro raspoloženje',
         artist: 'EX YU',
-        music: 'music/EX-YU mix za dobro raspoloženje Muzički tramvaj_1'
+        music: 'music/EX-YU mix za dobro raspoloženje Muzički tramvaj_1.mp3'
     }
     ,{
     img : 'images/SMAK.jpg',
         name: 'Mix za dobro raspoloženje #2',
         artist: 'EX YU',
-        music: 'music/EX-YU mix za dobro raspoloženje Muzički tramvaj_2'
+        music: 'music/EX-YU mix za dobro raspoloženje Muzički tramvaj_2.mp3'
     }
   ,{
     img : 'images/SMAK.jpg',
         name: 'Stairway to Heaven',
         artist: 'Led-Z',
-        music: 'music/Led Zeppelin - Stairway To Heaven (Official Audio)'
+        music: 'music/Led Zeppelin - Stairway To Heaven (Official Audio).mp3'
     }
     
 ];
