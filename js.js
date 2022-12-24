@@ -128,6 +128,24 @@ img : 'images/SMAK.jpg',
         artist: 'SMAK',
         music: 'music/tomp3.cc - Smak Daire_320kbps.mp3'
     }
+,{
+    img : 'images/SMAK.jpg',
+        name: 'Mix za dobro raspoloženje',
+        artist: 'EX YU',
+        music: 'music/EX-YU mix za dobro raspoloženje Muzički tramvaj_1'
+    }
+    ,{
+    img : 'images/SMAK.jpg',
+        name: 'Mix za dobro raspoloženje #2',
+        artist: 'EX YU',
+        music: 'music/EX-YU mix za dobro raspoloženje Muzički tramvaj_2'
+    }
+  ,{
+    img : 'images/SMAK.jpg',
+        name: 'Stairway to Heaven',
+        artist: 'Led-Z',
+        music: 'music/Led Zeppelin - Stairway To Heaven (Official Audio)'
+    }
     
 ];
 
