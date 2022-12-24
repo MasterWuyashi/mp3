@@ -77,6 +77,13 @@ const music_list = [
         artist: 'Galija',
         music: 'music/Y2Mate.is - Galija - Da li si spavala (Acoustic, 6.1.1995)-v5P4LsUyXV4-128k-1655132764610.mp3'
     },
+  {
+    
+        img : 'images/Riders on the storm.jpg',
+        name: 'Riders on the Storm',
+        artist: 'The Doors',
+        music: 'music/tomp3.cc - Riders on the Storm The Doors HD_320kbps.mp3'
+    },
    
     {
     
