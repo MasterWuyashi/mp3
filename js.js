@@ -175,7 +175,7 @@ img : 'images/SMAK.jpg',
     img : 'images/bijelo dugme cover.jpg',
         name: 'Jer kad ostariš',
         artist: 'Bijelo Dugme',
-        music: 'music/jer kad ostaris.mp3'
+        music: 'music/Jer kad ostaris.mp3'
     }
  ,{
     img : 'images/bijelo dugme cover.jpg',
@@ -254,7 +254,7 @@ img : 'images/SMAK.jpg',
     
     ,{
     img : 'images/jura stublić cover.jpg',
-        name: 'Signali u noći',
+        name: 'Nježno nježno nježnije',
         artist: 'Jura Stublić',
         music: 'music/tomp3.cc - Njezno njezno njeznije grupa Film Jura Stublic_320kbps.mp3'
     }
