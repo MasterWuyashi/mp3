@@ -51,21 +51,21 @@ const music_list = [
     },
     {
     
-        img : 'images/Cover.jpg',
+        img : 'images/gif2.gif',
         name: 'Tu noć kad si se udavala',
         artist: 'Prljavo kazalište',
         music: 'music/PRLJAVO KAZALIŠTE - TU NOĆ KAD SI SE UDAVALA (OFFICIAL VIDEO).mp3'
     },
     {
     
-        img : 'images/Cover.jpg',
+        img : 'images/gif3.gif',
         name: 'Kada padne noć',
         artist: 'Riblja čorba',
         music: 'music/Riblja Čorba Kada padne noć Tekst HD.mp3'
     },
     {
     
-        img : 'images/Cover.jpg',
+        img : 'images/gif2.gif',
         name: 'Život je nekad siv nekad žut',
         artist: 'Bajaga i Instruktori',
         music: 'music/Y2Mate.is - Bajaga i Instruktori - Zivot je nekad siv nekad zut - (Audio 1988)-BwHenRthXT8-160k-1655942005833.mp3'
@@ -94,14 +94,14 @@ const music_list = [
     },
     {
     
-        img : 'images/Cover.jpg',
+        img : 'images/gif3.gif',
         name: 'Ti si sav moj bol',
         artist: 'Ekaterina',
         music: 'music/Y2Mate.is - Ti si sav moj bol-LdD8FtrsTfc-160k-1655132848570.mp3'
     },
     {
     
-        img : 'images/Cover.jpg',
+        img : 'images/gif2.gif',
         name: 'Tugo nesrećo',
         artist: 'Crvena jabuka',
         music: 'music/Y2Mate.is - Tugo Nesrećo-qD8MR5U5bvQ-160k-1655873880371.mp3'
