@@ -147,6 +147,142 @@ img : 'images/SMAK.jpg',
         artist: 'Led-Z',
         music: 'music/Led Zeppelin - Stairway To Heaven (Official Audio).mp3'
     }
+  ,{
+    img : 'images/Zabranjeno Pušenje-cover.jpg',
+        name: 'Ibro Dirka',
+        artist: 'Zabranjeno Pušenje',
+        music: 'music/ibro dirka.mp3'
+    }
+ ,{
+    img : 'images/Elvis K-cover.jpg',
+        name: 'Vrati mi ljubav',
+        artist: 'Elvis J Kurtović',
+        music: 'music/vrati mi ljubav.mp3'
+    }
+ ,{
+    img : 'images/Elvis K-cover.jpg',
+        name: 'Ko te kara nek ti pise pesme',
+        artist: 'Elvis J Kurtović',
+        music: 'music/ko te kara nek ti pise pjesme.mp3'
+    }
+ ,{
+    img : 'images/Zabranjeno Pušenje-cover.jpg',
+        name: 'Možeš imat moje telo ali moju dušu ne',
+        artist: 'Zabranjeno Pušenje',
+        music: 'music/Možeš imat moje telo.mp3'
+    }
+     ,{
+    img : 'images/bijelo dugme cover.jpg',
+        name: 'Jer kad ostariš',
+        artist: 'Bijelo Dugme',
+        music: 'music/Jer kad ostariš.mp3'
+    }
+ ,{
+    img : 'images/bijelo dugme cover.jpg',
+        name: 'Da te bogdo ne volim',
+        artist: 'Bijelo Dugme',
+        music: 'music/tomp3.cc - Bijelo Dugme Da te bogdo ne volim Audio 1994 HD_320kbps.mp3'
+    }
+    
+ ,{
+    img : 'images/bijelo dugme cover.jpg',
+        name: 'Pesma za malu pticu',
+        artist: 'Bijelo Dugme',
+        music: 'music/tomp3.cc - Bijelo Dugme09Pjesma za malu pticu_320kbps.mp3'
+    }
+ ,{
+    img : 'images/bijelo dugme cover.jpg',
+        name: 'Da si na mom mestu',
+        artist: 'Bijelo Dugme',
+        music: 'music/tomp3.cc - Bijelo Dugme Sta bi dao da si na mom mjestu Audio_320kbps.mp3'
+    }
+,{
+    img : 'images/gif 6.gif',
+        name: 'Izgledala je malo čudno',
+        artist: 'Regina',
+        music: 'music/tomp3.cc - Izgledala je malo cudno_320kbps.mp3'
+    }
+    
+     ,{
+    img : 'images/rain.gif',
+        name: 'Kiše jesenje',
+        artist: 'Tifa',
+        music: 'music/tomp3.cc - TifaKise Jesenje_320kbps.mp3'
+    }
+  ,{
+    img : 'images/gif 6.gif',
+        name: 'Sjaj u kosi',
+        artist: 'Azra',
+        music: 'music/tomp3.cc - AZRA U BEOGRADU 81 LIVE SJAJ U KOSI_320kbps.mp3'
+    }
+  ,{
+    img : 'images/rain.gif',
+        name: 'Ako znaš bilo što',
+        artist: 'Azra',
+        music: 'music/tomp3.cc - Branimir Štulić svira AKO ZNAŠ BILO ŠTO_320kbps.mp3'
+    }
+,{
+    img : 'images/rain.gif',
+        name: 'Plavi Golub',
+        artist: 'Azra',
+        music: 'music/tomp3.cc - Plavi Golub Azra cover by Jasmin _320kbps.mp3'
+    }
+,{
+    img : 'images/riblja corba.jpg',
+        name: 'Nemoj da ideš mojom ulicom',
+        artist: 'Riblja Čorba',
+        music: 'music/tomp3.cc - Riblja Čorba Nemoj da ideš mojom ulicom Tekst HD_320kbps.mp3'
+    }
+,{
+    img : 'images/rain gif.gif',
+        name: 'Doći ću ti u snovima',
+        artist: 'Jura Stublić',
+        music: 'music/tomp3.cc - Jura Stublic Doci Cu Ti U Snovima_320kbps.mp3'
+    }
+,{
+    img : 'images/jura stublić cover.jpg',
+        name: 'Ljubav je zakon',
+        artist: 'Jura Stublić',
+        music: 'music/tomp3.cc - Jura Stublic i Film Ljubav je zakon Audio_320kbps.mp3'
+    }
+    ,{
+    img : 'images/jura stublić cover.jpg',
+        name: 'Signali u noći',
+        artist: 'Jura Stublić',
+        music: 'music/tomp3.cc - Signali U Noći_320kbps.mp3'
+    }
+    
+    ,{
+    img : 'images/jura stublić cover.jpg',
+        name: 'Signali u noći',
+        artist: 'Jura Stublić',
+        music: 'music/tomp3.cc - Njezno njezno njeznije grupa Film Jura Stublic_320kbps.mp3'
+    }
+  ,{
+    img : 'images/gif 6.gif',
+        name: 'Dileme',
+        artist: 'Drugi način',
+        music: 'music/tomp3.cc - Dileme_320kbps.mp3'
+    }
+  ,{
+    img : 'images/gif 2.gif',
+        name: 'Zlatna ribica',
+        artist: 'Vajta',
+        music: 'music/tomp3.cc - ZLATNA RIBICA SEID MEMIĆ VAJTA 1979_320kbps.mp3'
+    }
+ ,{
+    img : 'images/gif 2.gif',
+        name: 'Zlatna ribica',
+        artist: 'Vajta',
+        music: 'music/tomp3.cc - ZLATNA RIBICA SEID MEMIĆ VAJTA 1979_320kbps.mp3'
+    }
+ ,{
+    img : 'images/gif 3.gif',
+        name: 'Gdje si dušo gdje si rano',
+        artist: 'Henda',
+        music: 'music/tomp3.cc - Henda Gdje si dušo gdje si rano_320kbps.mp3'
+    }
+    
     
 ];
 
