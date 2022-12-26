@@ -113,7 +113,7 @@ const music_list = [
         artist: 'Riblja čorba',
         music: 'music/Riblja Corba - Kad Sam Bio Mlad.mp3'
     },{
-    img : 'images/Cover.jpg',
+    img : 'images/gif.webp',
     name: 'Back to black',
     artist: 'Amy Winehouse',
     music: 'music/Amy Winehouse - Back To Black.mp3'
