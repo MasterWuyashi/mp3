@@ -175,7 +175,7 @@ img : 'images/SMAK.jpg',
     img : 'images/bijelo dugme cover.jpg',
         name: 'Jer kad ostariš',
         artist: 'Bijelo Dugme',
-        music: 'music/Jer kad ostariš.mp3'
+        music: 'music/jer kad ostaris.mp3'
     }
  ,{
     img : 'images/bijelo dugme cover.jpg',
@@ -207,7 +207,7 @@ img : 'images/SMAK.jpg',
     img : 'images/rain.gif',
         name: 'Kiše jesenje',
         artist: 'Tifa',
-        music: 'music/tomp3.cc - TifaKise Jesenje_320kbps.mp3'
+        music: 'music/tomp3.cc - TifaKise Jesenje_320kbps.mp3.mp3'
     }
   ,{
     img : 'images/gif 6.gif',
@@ -270,17 +270,12 @@ img : 'images/SMAK.jpg',
         artist: 'Vajta',
         music: 'music/tomp3.cc - ZLATNA RIBICA SEID MEMIĆ VAJTA 1979_320kbps.mp3'
     }
- ,{
-    img : 'images/gif 2.gif',
-        name: 'Zlatna ribica',
-        artist: 'Vajta',
-        music: 'music/tomp3.cc - ZLATNA RIBICA SEID MEMIĆ VAJTA 1979_320kbps.mp3'
-    }
+ 
  ,{
     img : 'images/gif 3.gif',
         name: 'Gdje si dušo gdje si rano',
         artist: 'Henda',
-        music: 'music/tomp3.cc - Henda Gdje si dušo gdje si rano_320kbps.mp3'
+        music: 'music/tomp3.cc - Henda Gdje si dušo gdje si rano_320kbps.mp3.mp3'
     }
     
     
