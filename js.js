@@ -108,7 +108,7 @@ const music_list = [
     },
     {
     
-        img : 'images/Cover.jpg',
+        img : 'images/gif4.webp',
         name: 'Kad sam bio mlad',
         artist: 'Riblja čorba',
         music: 'music/Riblja Corba - Kad Sam Bio Mlad.mp3'
