@@ -101,9 +101,9 @@ const music_list = [
     },
     {
     
-        img : 'images/dino_merlin_promo.jpg',
+        img : 'images/Cover.jpg',
         name: 'Tugo nesrećo',
-        artist: 'Dino Merlin',
+        artist: 'Crvena jabuka',
         music: 'music/Y2Mate.is - Tugo Nesrećo-qD8MR5U5bvQ-160k-1655873880371.mp3'
     },
     {
